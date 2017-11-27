@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/client-combined-3.0.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/selenese-runner.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/selenium-html-runner-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Armand.Janssen/Documents/Jenkins/selenium-server-standalone-3.0.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
